@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC500SSD\\Documents\\Visual Studio 2022\\VT_UYGULAMALAR\\StokTakip_AccessVT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1EB6C1-1463-467B-ADAF-656C4C5B9432}|StokTakip_AccessVT\\StokTakip_AccessVT.csproj|c:\\users\\pc500ssd\\documents\\visual studio 2022\\vt_uygulamalar\\stoktakip_accessvt\\stoktakip_accessvt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE1EB6C1-1463-467B-ADAF-656C4C5B9432}|StokTakip_AccessVT\\StokTakip_AccessVT.csproj|solutionrelative:stoktakip_accessvt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1EB6C1-1463-467B-ADAF-656C4C5B9432}|StokTakip_AccessVT\\StokTakip_AccessVT.csproj|C:\\Users\\PC500SSD\\Documents\\Visual Studio 2022\\VT_UYGULAMALAR\\StokTakip_AccessVT\\stoktakip_accessvt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1EB6C1-1463-467B-ADAF-656C4C5B9432}|StokTakip_AccessVT\\StokTakip_AccessVT.csproj|solutionrelative:stoktakip_accessvt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1EB6C1-1463-467B-ADAF-656C4C5B9432}|StokTakip_AccessVT\\StokTakip_AccessVT.csproj|C:\\Users\\PC500SSD\\Documents\\Visual Studio 2022\\VT_UYGULAMALAR\\StokTakip_AccessVT\\stoktakip_accessvt\\vtbaglan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1EB6C1-1463-467B-ADAF-656C4C5B9432}|StokTakip_AccessVT\\StokTakip_AccessVT.csproj|solutionrelative:stoktakip_accessvt\\vtbaglan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC500SSD\\Documents\\Visual Studio 2022\\VT_UYGULAMALAR\\StokTakip_AccessVT\\StokTakip_AccessVT\\Form1.cs",
+              "RelativeDocumentMoniker": "StokTakip_AccessVT\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC500SSD\\Documents\\Visual Studio 2022\\VT_UYGULAMALAR\\StokTakip_AccessVT\\StokTakip_AccessVT\\Form1.cs",
+              "RelativeToolTip": "StokTakip_AccessVT\\Form1.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAArwFIAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:15:45.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vtBaglan.cs",
+              "DocumentMoniker": "C:\\Users\\PC500SSD\\Documents\\Visual Studio 2022\\VT_UYGULAMALAR\\StokTakip_AccessVT\\StokTakip_AccessVT\\vtBaglan.cs",
+              "RelativeDocumentMoniker": "StokTakip_AccessVT\\vtBaglan.cs",
+              "ToolTip": "C:\\Users\\PC500SSD\\Documents\\Visual Studio 2022\\VT_UYGULAMALAR\\StokTakip_AccessVT\\StokTakip_AccessVT\\vtBaglan.cs",
+              "RelativeToolTip": "StokTakip_AccessVT\\vtBaglan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:01:19.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC500SSD\\Documents\\Visual Studio 2022\\VT_UYGULAMALAR\\StokTakip_AccessVT\\StokTakip_AccessVT\\Form1.cs",
+              "RelativeDocumentMoniker": "StokTakip_AccessVT\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC500SSD\\Documents\\Visual Studio 2022\\VT_UYGULAMALAR\\StokTakip_AccessVT\\StokTakip_AccessVT\\Form1.cs [Design]",
+              "RelativeToolTip": "StokTakip_AccessVT\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:44:29.966Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
